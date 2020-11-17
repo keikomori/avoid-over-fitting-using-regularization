@@ -1,6 +1,5 @@
-avoid-over-fitting-using-regularization
 <h6>This project was developed during the course: </h6>
-<h1 align="center">Deploy Models with TensorFlow Serving and Flask</h1>
+<h1 align="center">Avoid over fitting using regularization</h1>
 <h6 align="center">by Coursera Project Network</h6>
 
 Projeto prático sobre evitar ajustes excessivos usando regulação.
